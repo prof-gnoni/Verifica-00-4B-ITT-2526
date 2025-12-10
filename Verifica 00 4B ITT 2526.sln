@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaVeicoli", "Libreria
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esercizio 2", "Esercizio 2\Esercizio 2.csproj", "{0C291F5E-D247-4930-91B7-CD00B42D36EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esercizio 3", "Eseercizio 3\Esercizio 3.csproj", "{C9853289-2EE2-444C-9009-CA0D204A7BB9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esercizio 3", "Esercizio 3\Esercizio 3.csproj", "{C9853289-2EE2-444C-9009-CA0D204A7BB9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esercizio_1", "Esercizio_1\Esercizio_1.csproj", "{C6AC22BE-DE6E-41E7-82D3-B060C3CBF7D2}"
 EndProject

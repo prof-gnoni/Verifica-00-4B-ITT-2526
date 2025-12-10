@@ -1,6 +1,6 @@
 using LibreriaVeicoli;
 
-namespace Eseercizio_3
+namespace Esercizio_3
 {
     internal static class Program
     {
