@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36705.20 d17.14
+VisualStudioVersion = 17.14.36705.20
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaVeicoli", "LibreriaVeicoli\LibreriaVeicoli.csproj", "{7762BC96-EE69-48CE-9AD4-8279AF8D3525}"
 EndProject
@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esercizio 2", "Esercizio 2\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esercizio 3", "Esercizio 3\Esercizio 3.csproj", "{C9853289-2EE2-444C-9009-CA0D204A7BB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esercizio_1", "Esercizio_1\Esercizio_1.csproj", "{C6AC22BE-DE6E-41E7-82D3-B060C3CBF7D2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esercizio 1", "Esercizio_1\Esercizio 1.csproj", "{C6AC22BE-DE6E-41E7-82D3-B060C3CBF7D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
